@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Pie-Shop\\PieShop\\PieShop\\PieShop.csproj": {}
+    "D:\\Projects\\Pie-Shop\\PieShop\\PieShop.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Pie-Shop\\PieShop\\PieShop\\PieShop.csproj": {
+    "D:\\Projects\\Pie-Shop\\PieShop\\PieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Pie-Shop\\PieShop\\PieShop\\PieShop.csproj",
+        "projectUniqueName": "D:\\Projects\\Pie-Shop\\PieShop\\PieShop.csproj",
         "projectName": "PieShop",
-        "projectPath": "D:\\Projects\\Pie-Shop\\PieShop\\PieShop\\PieShop.csproj",
+        "projectPath": "D:\\Projects\\Pie-Shop\\PieShop\\PieShop.csproj",
         "packagesPath": "C:\\Users\\Mandana\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Pie-Shop\\PieShop\\PieShop\\obj\\",
+        "outputPath": "D:\\Projects\\Pie-Shop\\PieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
