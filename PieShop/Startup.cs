@@ -52,7 +52,7 @@ namespace PieShop
             app.UseStatusCodePages();
             app.UseStaticFiles();
             app.UseCookiePolicy();
-            //app.UseMvcWithDefaultRoute();
+            app.UseAuthentication();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
